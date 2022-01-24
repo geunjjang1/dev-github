@@ -1,0 +1,4 @@
+math :0
+eng : 50
+mat :0
+en : 50
